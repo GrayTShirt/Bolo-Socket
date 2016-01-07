@@ -1,0 +1,9 @@
+Changes
+lib/Bolo/Socket.pm
+lib/Bolo/Socket/ZMQ.pm
+Makefile.PL
+MANIFEST
+README
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
