@@ -1,6 +1,4 @@
-Changes
 lib/Bolo/Socket.pm
-lib/Bolo/Socket/ZMQ.pm
 Makefile.PL
 MANIFEST
 README
