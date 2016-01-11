@@ -337,8 +337,4 @@ You can also look for information at:
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2016 Dan Molik
-
-GPLv3+
-
-All rights reserved.
+Copyright 2016 Dan Molik - GPLv3

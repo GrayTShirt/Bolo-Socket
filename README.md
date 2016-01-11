@@ -23,4 +23,4 @@ You can also look for information at: https://github.com/GrayTShirt/Bolo-Socket
 
 ### LICENSE AND COPYRIGHT
 
-Copyright (C) 2016 Dan Molik
+Copyright (C) 2016 Dan Molik - GPLv3

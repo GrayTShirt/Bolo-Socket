@@ -7,7 +7,7 @@ Version:       0.02
 Release:       1%{?_dist}
 Summary:       ZMQ wrapper to connect to Bolo endpoints
 URL:           https://github.com/GrayTShirt/Bolo-Socket
-License:       distributable
+License:       GPLv3
 Group:         Development/Libraries
 
 BuildRoot:     %{_tmppath}/%{name}-root
