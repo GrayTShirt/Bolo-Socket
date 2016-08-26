@@ -1,10 +1,10 @@
 %define modulename Bolo::Socket
 
 Name:          perl-Bolo-Socket
-Provides:      perl-Bolo-Socket
+Provides:      perl(Bolo::Socket)
 Obsoletes:     perl-Bolo-Socket
 Version:       0.02
-Release:       1%{?_dist}
+Release:       2%{?_dist}
 Summary:       ZMQ wrapper to connect to Bolo endpoints
 URL:           https://github.com/GrayTShirt/Bolo-Socket
 License:       GPLv3
